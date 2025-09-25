@@ -158,7 +158,7 @@ Exiting the To-Do List.
 PS D:\Documents\VS Code\Code Veda\Intermediate> python 2nd_Task.py "https://en.wikipedia.org/wiki/Main_Page" "#mp-itn li a" wiki_news.csv 21 \                                
 Saved 21 items to wiki_news.csv
 
-**Output File:** \ 
+**Output File:** \
 [wiki_news.csv](https://github.com/pratyakshkumar5678/Code-Veda/blob/main/Intermediate/wiki_news.csv)
 
 ### ✅ [Problem 3](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Intermediate/3rd_Task.py)
