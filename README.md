@@ -292,8 +292,8 @@ Decrypted -> decrypted_sample.txt
 [sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/sample.txt)
 
 **Output Files:**
-[Secret_Key.key](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/Secret_Key.key)
-[sample.enc](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advance/sample.enc)
+[Secret_Key.key](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/Secret_Key.key);
+[sample.enc](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advance/sample.enc);
 [decrypted_sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advance/decrypted_sample.txt)
 
 ### ✅ [Problem 3](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/3rd_Task.py)
