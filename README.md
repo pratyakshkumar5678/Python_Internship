@@ -303,16 +303,16 @@ PS D:\Documents\VS Code\Code Veda> & C:\Users\praty\AppData\Local\Programs\Pytho
 --- N-Queens Problem Solver ---
 Enter the size of the chessboard (N), or 'q' to quit: 6
 Found 4 solutions for N=6
-Solution 1: [1, 3, 5, 0, 2, 4]
-.Q....
-...Q..
-.....Q
-Q.....
-..Q...
-....Q.
+Solution 1: [1, 3, 5, 0, 2, 4]\
+.Q....\
+...Q..\
+.....Q\
+Q.....\
+..Q...\
+....Q.\
 
-Solution 2: [2, 5, 1, 4, 0, 3]
-..Q...
+Solution 2: [2, 5, 1, 4, 0, 3]\
+..Q...\
 .....Q
 .Q....
 ....Q.
