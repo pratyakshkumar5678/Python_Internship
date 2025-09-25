@@ -63,88 +63,88 @@ Your task is added successfully.\
 Enter task 2 description: Sample Task 2\
 Your task is added successfully.
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 2\
 1.[Not Completed] Sample Task 1\
 2.[Not Completed] Sample Task 2
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 4\
 Enter task number to mark as done: 2\
 The task is marked as Completed.
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 2\
 1.[Not Completed] Sample Task 1\
 2.[Completed] Sample Task 2
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 5\
 Enter task number to mark as not done: 2\
 The task is marked as Not Completed.
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 2\
 1.[Not Completed] Sample Task 1\
 2.[Not Completed] Sample Task 2
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 3\
 Enter task number to delete: 2\
 Deleted Task: Sample Task 2
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 2\
 1.[Not Completed] Sample Task 1
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 6\
 Exiting the To-Do List.
@@ -158,7 +158,8 @@ Exiting the To-Do List.
 PS D:\Documents\VS Code\Code Veda\Intermediate> python 2nd_Task.py "https://en.wikipedia.org/wiki/Main_Page" "#mp-itn li a" wiki_news.csv 21 \                                
 Saved 21 items to wiki_news.csv
 
-**Output File:**\ [wiki_news.csv](https://github.com/pratyakshkumar5678/Code-Veda/blob/main/Intermediate/wiki_news.csv)
+**Output File:**\ 
+[wiki_news.csv](https://github.com/pratyakshkumar5678/Code-Veda/blob/main/Intermediate/wiki_news.csv)
 
 ### ✅ [Problem 3](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Intermediate/3rd_Task.py)
 
