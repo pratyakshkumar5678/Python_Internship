@@ -49,12 +49,12 @@ The total number of words in sample.txt is: 8
 **Output:**\
 PS D:\Documents\VS Code\Code Veda\Intermediate> & C:\Users\praty\AppData\Local\Programs\Python\Python312\python.exe "d:/Documents/VS Code/Code Veda/Intermediate/1st_Task.py"
 
-=== To-Do List Menu ===\
-1. Add Task\
-2. View Tasks\
-3. Delete Task\
-4. Mark Task as Completed\
-5. Mark Task as Not Completed\
+=== To-Do List Menu ===
+1. Add Task
+2. View Tasks
+3. Delete Task
+4. Mark Task as Completed
+5. Mark Task as Not Completed
 6. Exit\
 Enter your choice (1-6): 1\
 Enter No. of Tasks you want to Input: 2\
