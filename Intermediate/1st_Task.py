@@ -19,7 +19,6 @@ def save_tasks(tasks):
       writer.writerow({"Description":task["Description"], "Completed":task["Completed"]})
 
 def add_tasks():
-  no_of_tasks=int(input("Enter No. of Tasks you want to Input: "))
   try:
     no_of_tasks = int(input("Enter No. of Tasks you want to Input: "))
   except ValueError:

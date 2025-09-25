@@ -7,10 +7,10 @@ print("Rules are simple:\n1.)Guess a number from 1 to 100.\n2.) You only get 5 c
 while attempts < max_attempts:
     guess=int(input(f"Attempt {attempts+1}/{max_attempts}: "))
     if guess==guess_number and attempts==0:
-        print(f"Are you Human. You guessed it in {attempts+1} attempt.")
+        print(f"Are you Human. You guessed it in {attempts+1} attempts.")
         break
-    elif guess==guess_number and attempts>=2 and attempts<max_attempts:
-        print(f"Congratulations! You guessed the number in {attempts+1} attempt.")
+    elif guess==guess_number and attempts>=1 and attempts<max_attempts:
+        print(f"Congratulations! You guessed the number in {attempts+1} attempts.")
         break
     elif guess<(guess_number-10):
         print("Guessed number is too low.")

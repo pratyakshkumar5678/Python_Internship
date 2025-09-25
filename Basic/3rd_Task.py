@@ -12,5 +12,5 @@ def word_counter(filename):
         return 0
 file=(input("Enter name of the file (with extension): "))
 total_words=word_counter(file)
-if word_counter==True:
-    print(f"THe total number of words in {file} is: {total_words}")
+if total_words > 0:
+    print(f"The total number of words in {file} is: {total_words}")
