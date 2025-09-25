@@ -31,7 +31,7 @@ def decrypt(keyfile, infile, outfile):
 
 def main():
     if len(sys.argv) < 2:
-        print("Usage: python file_encrypt.py <genkey|encrypt|decrypt> ...")
+        print("Usage: python 2nd_Task.py <genkey|encrypt|decrypt> ...")
         return
     cmd = sys.argv[1]
     if cmd == "genkey":
