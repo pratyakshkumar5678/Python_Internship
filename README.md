@@ -37,7 +37,9 @@ Congratulations! You guessed the number in 5 attempts.
 PS D:\Documents\VS Code\Code Veda\Basic> & C:\Users\praty\AppData\Local\Programs\Python\Python312\python.exe "d:/Documents/VS Code/Code Veda/Basic/3rd_Task.py"
 Enter name of the file (with extension): sample.txt
 The total number of words in sample.txt is: 8
-(https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Basic/sample.txt)
+
+**Used File:**
+[sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Basic/sample.txt)
 
 
 ## [Level-2: Intermediate](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Intermediate)
@@ -286,9 +288,11 @@ Encrypted -> sample.enc
 PS D:\Documents\VS Code\Code Veda\Advanced> python 2nd_Task.py decrypt Secret_Key.key sample.enc decrypted_sample.txt
 Decrypted -> decrypted_sample.txt
 
+**Used File:**
+[sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/sample.txt)
+
 **Output Files:**
 [Secret_Key.key](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/Secret_Key.key)
-[sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advanced/sample.txt)
 [sample.enc](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advance/sample.enc)
 [decrypted_sample.txt](https://github.com/pratyakshkumar5678/Code-Veda/tree/main/Advance/decrypted_sample.txt)
 
