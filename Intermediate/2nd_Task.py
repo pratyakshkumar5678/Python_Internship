@@ -22,12 +22,12 @@ def scrape(url, selector, max_items=None):
         text = el.get_text(strip=True)
         href = el.get("href") if el.has_attr("href") else ""
         href = urljoin(url, href)
-        results.append({"text": text, "url": href})
+        results.append({"Text": text, "Url": href})
     return results
 
 def save_csv(rows, filename):
     with open(filename, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=["text", "url"])
+        writer = csv.DictWriter(f, fieldnames=["Text", "Url"])
         writer.writeheader()
         writer.writerows(rows)
 

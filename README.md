@@ -146,7 +146,7 @@ Enter your choice (1-6): 2
 Enter your choice (1-6): 6
 Exiting the To-Do List.
 
-**Output File:** [task.csv]()
+**Output File:** [task.csv](https://github.com/pratyakshkumar5678/Code-Veda/blob/main/Intermediate/task.csv)
 
 ### ✅ Problem 2
 
@@ -154,6 +154,7 @@ Exiting the To-Do List.
 PS D:\Documents\VS Code\Code Veda\Intermediate> python 2nd_Task.py "https://en.wikipedia.org/wiki/Main_Page" "#mp-itn li a" wiki_news.csv 21                                 
 Saved 21 items to wiki_news.csv
 
+**Output File:** [wiki_news.csv](https://github.com/pratyakshkumar5678/Code-Veda/blob/main/Intermediate/wiki_news.csv)
 
 ### ✅ Problem 3
 
