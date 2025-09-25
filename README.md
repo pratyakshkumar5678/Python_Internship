@@ -223,7 +223,7 @@ Subject: Password reset on example.com\
 From: webmaster@localhost\
 To: hello@gmail.com\
 Date: Thu, 25 Sep 2025 13:29:58 -0000\
-Message-ID: <175880699853.26316.9303466477582654769@LAPTOP-S3RU198A>\
+Message-ID: <175880699853.26316.9303466477582654769@LAPTOP-S3RU198A>
 
 
 You're receiving this email because you requested a password reset for your user account at example.com.
